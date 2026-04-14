@@ -36,28 +36,31 @@ An AI-powered tool to generate high-converting thumbnails.
 
 ## 🚧 Current Progress
 
-* [X] Integrate API in frontend
-* [X] Final test of API
-* [X] Download feature
-* [X] Building priing page
-* [ ] AI generation API
-* [ ] Authentication
-* [ ] History saved logic 
+* [ ] Integrate API in frontend
+* [ ] Final test of API
+* [ ] Download feature
+* [ ] Building priing page
+* [X] AI generation API
+* [X] Authentication
+* [X] History saved logic 
 
 ---
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ### 🏠 Home Page
-![Home](./screenshots/preview.jpeg)
+<img src="public/screenshots/preview.jpeg" width="100%" alt="Home Page" style="border-radius: 10px; border: 1px solid #333;">
 
-### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.jpeg)
+<br/>
 
 ### 🦶 Footer
-![Footer](./screenshots/footer.jpeg)
+<img src="public/screenshots/footer.jpeg" width="100%" alt="Footer" style="border-radius: 10px; border: 1px solid #333;">
+
+<br/>
+
+### 📊 Dashboard
+<img src="public/screenshots/dashboard.jpeg" width="100%" alt="Dashboard" style="border-radius: 10px; border: 1px solid #333;">
+
 
 ---
 
