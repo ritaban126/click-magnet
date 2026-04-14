@@ -48,8 +48,6 @@ An AI-powered tool to generate high-converting thumbnails.
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ### 🏠 Home Page
 ![Home](./screenshots/preview.jpeg)
 
