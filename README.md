@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 AI Thumbnail Generator
 
-## Getting Started
+![status](https://img.shields.io/badge/status-in%20progress-yellow)
 
-First, run the development server:
+> ⚠️ **Project Status: Currently Under Development**
+
+An AI-powered tool to generate high-converting thumbnails.
+
+---
+
+## ✨ Features (Planned / In Progress)
+
+* 🎯 AI-generated thumbnail ideas
+* 🧠 Prompt-based generation
+* 🎨 History saved of generated thumbnails
+* ⬇️ Download current generated thumbnail
+* 🔗 Share it with others
+
+
+---
+
+## 🛠️ Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+- Node.js
+- Google Gemini AI (Generative AI API)
+- PostgreSQL
+- Neon (PostgreSQL Database)
+- Drizzle ORM
+- Clerk Authentication
+
+---
+
+## 🚧 Current Progress
+
+* [X] Integrate API in frontend
+* [X] Final test of API
+* [X] Download feature
+* [X] Building priing page
+* [ ] AI generation API
+* [ ] Authentication
+* [ ] History saved logic 
+
+---
+
+## 📸 Preview
+
+![Home Page](./screenshots/preview.jpeg)
+
+---
+
+## ⚡ Getting Started
 
 ```bash
+git clone https://github.com/your-username/your-repo
+cd your-repo
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🗺️ Roadmap
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* 🚀 Launch MVP
+* 🎨 Add more thumbnail styles in Home page
+* 🤖 Implement AI generation logic and route
+* 👤 User dashboard & history
+* 💰 Pricing
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📌 Note
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is actively being built.
+Expect bugs, breaking changes, and frequent updates.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
