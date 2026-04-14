@@ -50,9 +50,14 @@ An AI-powered tool to generate high-converting thumbnails.
 
 ## 📸 Preview
 
-![Home Page](./screenshots/preview.jpeg)
-![Footer Page](./screenshots/footer.jpeg)
-![Dashboard Page](./screenshots/dashboard.jpeg)
+### 🏠 Home Page
+![Home](./screenshots/preview.jpeg)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.jpeg)
+
+### 🦶 Footer
+![Footer](./screenshots/footer.jpeg)
 
 ---
 
