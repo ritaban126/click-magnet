@@ -49,7 +49,7 @@ An AI-powered tool to generate high-converting thumbnails.
 ## 📸 Preview
 
 ### 🏠 Home Page
-<img src="public/screenshots/preview.jpeg" width="100%" alt="Home Page" style="border-radius: 10px; border: 1px solid #333;">
+<img src="public/screenshots/preview2.jpeg" width="100%" alt="Home Page" style="border-radius: 10px; border: 1px solid #333;">
 
 <br/>
 
