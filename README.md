@@ -36,10 +36,10 @@ An AI-powered tool to generate high-converting thumbnails.
 
 ## 🚧 Current Progress
 
-* [] Integrate API in frontend
-* [] Final test of API
-* [] Download feature
-* [] Building priing page
+* [ ] Integrate API in frontend
+* [ ] Final test of API
+* [ ] Download feature
+* [ ] Building priing page
 * [X] AI generation API
 * [X] Authentication
 * [X] History saved logic 
