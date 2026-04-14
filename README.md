@@ -54,7 +54,7 @@ An AI-powered tool to generate high-converting thumbnails.
 <br/>
 
 ### 🦶 Footer
-<img src="public/screenshots/footer.jpeg" width="100%" alt="Footer" style="border-radius: 10px; border: 1px solid #333;">
+<img src="public/screenshots/footer1.jpeg" width="100%" alt="Footer" style="border-radius: 10px; border: 1px solid #333;">
 
 <br/>
 
